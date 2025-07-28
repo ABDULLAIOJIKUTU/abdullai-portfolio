@@ -3,7 +3,7 @@ import Navbar from "./components/Navbar";
 
 const App = () => {
   return (
-    <section className="bg-gradient-to-r">
+    <section className="bg-gray-100">
       <div>
         <Navbar />
       </div>
