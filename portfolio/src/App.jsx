@@ -3,9 +3,11 @@ import Navbar from "./components/Navbar";
 
 const App = () => {
   return (
-    <div>
-      <Navbar />
-    </div>
+    <section className="bg-gradient-to-r">
+      <div>
+        <Navbar />
+      </div>
+    </section>
   );
 };
 
