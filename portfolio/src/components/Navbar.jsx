@@ -4,7 +4,7 @@ const Navbar = () => {
   return (
     <nav className="flex w-[70%] mx-auto bg-white/50 rounded-2xl flex-row items-center justify-between px-4 py-2 backdrop-blur-md">
       <div className="flex items-center">
-        <a href="/" class="flex items-center">
+        <a href="/" className="flex items-center">
           <svg
             xmlns="http://www.w3.org/2000/svg"
             width="32"
@@ -12,10 +12,10 @@ const Navbar = () => {
             viewBox="0 0 24 24"
             fill="none"
             stroke="#59168b"
-            stroke-width="2"
-            stroke-linecap="round"
-            stroke-linejoin="round"
-            class="lucide lucide-code-xml-icon lucide-code-xml"
+            strokeWidth="2"
+            strokeLinecap="round"
+            strokeLinejoin="round"
+            className="lucide lucide-code-xml-icon lucide-code-xml"
           >
             <path d="m18 16 4-4-4-4" />
             <path d="m6 8-4 4 4 4" />
