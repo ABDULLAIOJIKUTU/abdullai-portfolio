@@ -1,12 +1,10 @@
 import React from "react";
-import Navbar from "./components/Navbar";
+import Navbar from "../public/components/Navbar";
 
 const App = () => {
   return (
-    <section className="bg-gray-100">
-      <div>
-        <Navbar />
-      </div>
+    <section className="w-full bg-[#c0bdbdc5] py-6 px-6 h-screen rounded-4xl">
+      <Navbar />
     </section>
   );
 };
