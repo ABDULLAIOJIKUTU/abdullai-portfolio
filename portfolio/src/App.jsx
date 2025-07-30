@@ -4,7 +4,7 @@ import Button from "./components/Button.jsx";
 
 const App = () => {
   return (
-    <section className="w-full bg-[#c0bdbdc5] py-6 px-6 h-screen rounded-4xl">
+    <section className="w-full bg-[rgba(192,189,189,0.77)] py-6 px-6 h-screen rounded-4xl">
       <Navbar />
       <Button />
     </section>

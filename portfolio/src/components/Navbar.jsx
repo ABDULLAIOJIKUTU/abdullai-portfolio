@@ -32,23 +32,23 @@ const Navbar = () => {
           <li>
             <a
               href="/"
-              className="hover:border-b-2 hover:text-purple-600 hover:px-2 hover:py-2 rounded-lg w-3xl bg-purple-600 text-white"
+              className="hover:border-b-2  hover:px-2 hover:py-2 hover:rounded-lg hover:w-3xl hover:bg-purple-600 hover:text-white"
             >
               Bio
             </a>
           </li>
           <li>
-            <a href="/" className="hover:border-b-2 hover:text-purple-600">
+            <a href="/" className="hover:border-b-2  hover:px-2 hover:py-2 hover:rounded-lg hover:w-3xl hover:bg-purple-600 hover:text-white">
               Skills
             </a>
           </li>
           <li>
-            <a href="/" className="hover:border-b-2 hover:text-purple-600">
+            <a href="/" className="hover:border-b-2  hover:px-2 hover:py-2 hover:rounded-lg hover:w-3xl hover:bg-purple-600 hover:text-white">
               Projects
             </a>
           </li>
           <li>
-            <a href="/" className="hover:border-b-2 hover:text-purple-600">
+            <a href="/" className="hover:border-b-2  hover:px-2 hover:py-2 hover:rounded-lg hover:w-3xl hover:bg-purple-600 hover:text-white">
               Contact
             </a>
           </li>
